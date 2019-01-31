@@ -1,0 +1,5 @@
+name: SimpleMetadataPersistence
+version: ${project.version}
+main: logan.smp.SimpleMetadataPersistence
+authors: [Tre]
+description: Adds persistent entity meta-data to your spigot server.
